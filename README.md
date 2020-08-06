@@ -45,6 +45,8 @@ android: {
 }
 ```
 
+将res文件夹添加到项目android对应目录中.
+
 ##### iOS:
 
 - 在 xcode8 之后需要点开推送选项： TARGETS -> Capabilities -> Push Notification 设为 on 状态
